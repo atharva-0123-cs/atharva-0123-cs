@@ -4,11 +4,12 @@
 
 
 ---
+# Hi, I’m Atharva Aglawe  
 
-👋 Hi, I’m Atharva Aglawe
-🚀 Building interactive and intelligent systems with low-level efficiency.
-⚡ Exploring Game Engine Architecture, Game Servers, Distributed Systems, and Advanced Networking
-🖥️ Enthusiastic TUI (Terminal User Interface) developer & Backend Engineer
-🔧 Currently learning Go, refining my C/C++, and experimenting with React Three.js for 3D web experiences
-💡 I love collaborating on Open Source projects, AI-driven applications, and pushing the limits of Computer Graphics.
+🚀 **Building interactive and intelligent systems with low-level efficiency.**  
+⚡ Exploring **Game Engine Architecture, Game Servers, Distributed Systems, and Advanced Networking**  
+🖥️ Enthusiastic **TUI (Terminal User Interface) developer** & **Backend Engineer**  
+🔧 Currently learning **Go, refining my C/C++, and experimenting with React Three.js for 3D web experiences**  
+💡 **I love collaborating on Open Source projects, AI-driven applications, and pushing the limits of Computer Graphics**  
 
+📫 Reach me at **atharva123king@gmail.com**
